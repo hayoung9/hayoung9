@@ -1,6 +1,4 @@
 ## Technology is the driving force behind me, but communication is necessary to live
-초보 개발자입니당
-
 ---
 ## Technology
 #### main
@@ -16,7 +14,7 @@
 ---
 ## Timeline
 * (2023.09 ~ 2023.11) CBT CBT자격증시험도 볼 수 있고 관련된 정보를 제공해주는 웹 사이트
-* (2023.10 ~ 2023.11) rootfinder mbti별 여행 추천해주는
+* (2023.10 ~ 2023.11) rootfinder mbti별 여행 코스를 추천해주는 웹 사이트
 * (2023.11 ~ 20223.12) roomMaker 교육기관 및 프로젝트의 학습 공간을 제공해주는 웹 사이트
 * (2022.09 ~ 2022.11) harmony 기존 가구들을 재조합하여 새로운 가구를 알리는 웹 사이트
 ---
