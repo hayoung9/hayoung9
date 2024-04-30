@@ -1,6 +1,5 @@
 ## Technology is the driving force behind me, but communication is necessary to live
 
-#### hayoung9 - 공부방
 #### hayoung09 - 포폴
 ---
 
